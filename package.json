@@ -1,0 +1,15 @@
+{
+  "name": "colorskydev.githun.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:colorskydev/colorskydev.githun.io.git",
+  "author": "colorskydev <i@skyorg.top>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.8"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+	"docs:build": "vuepress build docs"
+  }
+}
