@@ -16,7 +16,7 @@
 
 ### 移动端用户：Android
 
-前往[苦力怕下载站](https://mcapks.com)下载`1.20.51.01`版本并打开游戏注册(登陆)
+前往[苦力怕下载站](https://mcapks.com)下载`正式版1.20.81.01`版本并打开游戏注册(登陆)
 
 ### PC端：Windows, Linux, MacOS
 #### 下载JAVA运行环境
@@ -49,15 +49,15 @@
 
 服务器名称：`ColorSkyFun`
 
-服务器IP：`play.colorsky.fun`
+服务器IP：`plays.colorsky.fun`
 
-端口： `15262`
+端口： `49373`
 
 - PC端（Java版玩家）
 
 在多人游戏中添加服务器
 
-主机名（IP）：`play.colorsky.fun:15265`
+主机名（IP）：`play.colorsky.fun:15045`
 
 ## 辅助命令
 > [!warning]
