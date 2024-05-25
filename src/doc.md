@@ -101,4 +101,4 @@
 请查看[资源](./MC.md)
 
 
-# 本服务器是`LeavesMC`端，所以支持生电特性，还支持假人，假人有关 移步 [文档](https://docs.leavesmc.org/zh/leaves/fakeplayer)
+# 本服务器是`LeavesMC`端，所以支持生电特性，还支持假人，假人有关 移步 [文档](https://docs.leavesmc.org/zh_Hans/leaves/reference/fakeplayer)
