@@ -49,6 +49,12 @@
 
 服务器名称：`ColorSkyFun`
 
+服务器IP：`play.colorsky.fun`
+
+端口：15042
+
+### 备用
+
 服务器IP：`plays.colorsky.fun`
 
 端口： `49373`
