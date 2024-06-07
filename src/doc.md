@@ -16,11 +16,11 @@
 
 ### 移动端用户：Android
 
-前往[苦力怕下载站](https://mcapks.com)下载`正式版1.20.81.01`版本并打开游戏注册(登陆)
+前往[苦力怕下载站](https://mcapks.com)下载`正式版1.20.80`版本并打开游戏注册(登陆)
 
 ### PC端：Windows, Linux, MacOS
 #### 下载JAVA运行环境
-使用java版游玩的游戏版本为1.20.4，所以需要下载java17以上的java环境，在[JAVA下载界面](https://www.oracle.com/java/technologies/downloads/)选择你需要的java安装包，这里给使用Windwos的朋友提供以下[Java21的下载连接](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.msi)
+使用java版游玩的游戏版本为1.20.6，所以需要下载java21以上的java环境，在[JAVA下载界面](https://www.oracle.com/java/technologies/downloads/)选择你需要的java安装包，这里给使用Windwos的朋友提供以下[Java21的下载连接](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.msi)
 
 
 #### 下载客户端
@@ -53,7 +53,7 @@
 
 端口：15042
 
-### 备用
+`备用`
 
 服务器IP：`plays.colorsky.fun`
 
