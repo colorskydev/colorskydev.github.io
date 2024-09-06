@@ -11,6 +11,9 @@ actions:
     link: https://pd.qq.com/s/h3jcgj8ht
     type: primary
 
+  - text: 加入QQ群聊
+    link: https://qm.qq.com/q/ChzyK69vlm
+
   - text: 开始游戏
     link: ./doc.md
 
