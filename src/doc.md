@@ -7,7 +7,7 @@
 
 ### 禁止行为
 这里欢迎所有人，但我们有最低要求：
-1. 不可以破坏他人的建筑成果，别跟我说别人的地方风水好，被占的地不允许可以破坏，评判标准是`破坏有人为建筑物的一个区块(16x16)中超过20%`将会被Ban
+1. ~~不可以破坏他人的建筑成果，别跟我说别人的地方风水好，被占的地不允许可以破坏，评判标准是`破坏有人为建筑物的一个区块(16x16)中超过20%`将会被Ban~~
 2. 不允许使用外挂(不限制材质包)
 3. ~~允许恶意伤人~~
 4. 我承诺管理员不会有和使用任何服务器管理员权限
@@ -16,11 +16,11 @@
 
 ### 移动端用户：Android
 
-前往[苦力怕下载站](https://mcapks.com)下载`正式版1.20.80`版本并打开游戏注册(登陆)
+前往[苦力怕下载站](https://mcapks.com)下载`正式版1.21.22.01`版本并打开游戏注册(登陆)
 
 ### PC端：Windows, Linux, MacOS
 #### 下载JAVA运行环境
-使用java版游玩的游戏版本为1.20.6，所以需要下载java21以上的java环境，在[JAVA下载界面](https://www.oracle.com/java/technologies/downloads/)选择你需要的java安装包，这里给使用Windwos的朋友提供以下[Java21的下载连接](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.msi)
+使用java版游玩的游戏版本为1.21.1，所以需要下载java21以上的java环境，在[JAVA下载界面](https://www.oracle.com/java/technologies/downloads/)选择你需要的java安装包，这里给使用Windwos的朋友提供以下[Java21的下载连接](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.msi)
 
 
 #### 下载客户端
@@ -51,19 +51,13 @@
 
 服务器IP：`play.colorsky.fun`
 
-端口：15042
-
-`备用`
-
-服务器IP：`plays.colorsky.fun`
-
-端口： `49373`
+端口：19132
 
 - PC端（Java版玩家）
 
 在多人游戏中添加服务器
 
-主机名（IP）：`play.colorsky.fun:15045`
+主机名（IP）：`play.colorsky.fun`
 
 ## 辅助命令
 > [!warning]
