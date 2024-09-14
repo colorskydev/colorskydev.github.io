@@ -7,26 +7,43 @@
 
 ### 禁止行为
 这里欢迎所有人，但我们有最低要求：
-1. ~~不可以破坏他人的建筑成果，别跟我说别人的地方风水好，被占的地不允许可以破坏，评判标准是`破坏有人为建筑物的一个区块(16x16)中超过20%`将会被Ban~~
-2. 不允许使用外挂(不限制材质包)
-3. ~~允许恶意伤人~~
-4. 我承诺管理员不会有和使用任何服务器管理员权限
+
+1. 不允许使用外挂(不限制材质包)
+2. 我承诺管理员不会有和使用任何服务器管理员权限
 
 ## 加入游戏
 
+我的世界分为基岩版本和Java 版本，服务器的主体是Java 版本，所以一切数值，特性，合成配方都按照Java 版本为准。由于服务器加入了互通插件，这样基岩版本同样可以进入。
+
+## 使用基岩版本进入游戏
+
 ### 移动端用户：Android
+
+移动端建议使用基岩版本
+
 
 前往[苦力怕下载站](https://mcapks.com)下载`正式版1.21.22.01`版本并打开游戏注册(登陆)
 
+
+
+## 使用Java 版本进入游戏
+
+用电脑的就推荐Java 版本
+
 ### PC端：Windows, Linux, MacOS
+
 #### 下载JAVA运行环境
-使用java版游玩的游戏版本为1.21.1，所以需要下载java21以上的java环境，在[JAVA下载界面](https://www.oracle.com/java/technologies/downloads/)选择你需要的java安装包，这里给使用Windwos的朋友提供以下[Java21的下载连接](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.msi)
+使用java版游玩的游戏版本为1.21.1，所以需要下载java21以上的java环境，在[JAVA下载界面](https://www.oracle.com/java/technologies/downloads/)选择你的系统所对应的java安装包
+
+> 使用Windwos的朋友请直接下载[Java21的下载连接](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.msi)
 
 
 #### 下载客户端
 - 如果你是Windows电脑，我们推荐使用`PCL2`启动器
 
  [前往下载](https://ltcat.lanzoum.com/b0aj6gsid)(密码pcl2)
+
+下载完成后请把Release-***.zip中的.exe文件放入一个你找得到的文件夹内，这个文件夹将存储启动器和Minecraft 游戏文件
 
 如果你在Windows7以及7之下的版本，请使用`HMCL`启动器
 
@@ -38,7 +55,7 @@
 
 #### 下载游戏
 
-在`PCL2`或`HMCL`中添加一个你喜欢的名字(离线账户，我们的服务器不需要正版验证)，然后点击`下载游戏`下载`1.20.6`版本的游戏，你可以自行安装其他辅助模组或材质，启动游戏后...
+在`PCL2`或`HMCL`中添加一个你喜欢的名字(离线账户，我们的服务器不需要正版验证)，然后点击`下载游戏`下载`1.21.1`版本的游戏，你可以自行安装其他辅助模组或材质，启动游戏后...
 
 
 ## 加入服务器
@@ -95,10 +112,6 @@
 > /phomelist 列出公共家
 
 > /phome [name] 传送到公共家name
-
-
-# 同时我们为基岩版提供了一些小小的资源
-请查看[资源](./MC.md)
 
 
 # 本服务器是`LeavesMC`端，所以支持生电特性，还支持假人，假人有关 移步 [文档](https://docs.leavesmc.org/zh_Hans/leaves/reference/fakeplayer)
